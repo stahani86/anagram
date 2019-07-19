@@ -2,10 +2,10 @@
 Spring boot rest service with Gradle and Jersey client with Maven
 
 <h6>Pre-Requisites</h6>
-<li>1) JAVA 1.8</li>
-<li>2) GRADLE 5.5</li>
-<li>3) DOCKER 18.x</li>
-<li>4) MAVEN 3.3.9</li>
+<li>JAVA 1.8</li>
+<li>GRADLE 5.5</li>
+<li>DOCKER 18.x</li>
+<li>MAVEN 3.3.9</li>
 
 1) git clone https://github.com/stahani86/anagram.git
 
