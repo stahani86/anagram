@@ -7,7 +7,8 @@ Spring boot rest service with Gradle and Jersey client with Maven
 <li>DOCKER 18.x</li>
 <li>MAVEN 3.3.9</li>
 
-1) git clone https://github.com/stahani86/anagram.git
+<h4> Download from repo </h4>
+git clone https://github.com/stahani86/anagram.git
 
 <h4> Rest Service</h4>
 
